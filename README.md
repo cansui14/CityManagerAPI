@@ -1,0 +1,2 @@
+# CityManagerAPI
+ Visual Studio kullanarak C# MVC ile şehirleri yöneten bir API projesi geliştirdim. Proje, Entity Framework Core ile veritabanı işlemlerini yönetiyor ve ASP.NET Core Web API ile HTTP isteklerine yanıt veriyor. Dependency Injection sayesinde servisler ve bağımlılıklar etkili bir şekilde yönetiliyor. Performansı artırmak için asenkron yapılar kullanılırken, Swagger/OpenAPI ile otomatik API dokümantasyonu sağlanıyor. Bu sayede, güçlü, hızlı ve kullanıcı dostu bir API oluşturulmuş oldu.
