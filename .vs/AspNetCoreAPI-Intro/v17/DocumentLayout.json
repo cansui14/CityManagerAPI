@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\data\\citydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\data\\citydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoremvc-withapi\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|solutionrelative:aspnetcoremvc-withapi\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoremvc-withapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|solutionrelative:aspnetcoremvc-withapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|c:\\istka-yaz-2-projects\\aspnetcoremvc\\aspnetcoreapi-intro\\aspnetcoremvc-withapi\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|solutionrelative:aspnetcoremvc-withapi\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoremvc-withapi\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|solutionrelative:aspnetcoremvc-withapi\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoreapi-intro\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6C99E7-E444-4AAF-8AC9-DC27851FB4ED}|AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro.csproj|solutionrelative:aspnetcoreapi-intro\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoremvc-withapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|solutionrelative:aspnetcoremvc-withapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoremvc-withapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|solutionrelative:aspnetcoremvc-withapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\aspnetcoremvc-withapi\\models\\cityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146BBB40-F92D-4E03-A3B0-59DADB26C2B6}|AspNetCoreMvc-WithAPI\\AspNetCoreMvc-WithAPI.csproj|solutionrelative:aspnetcoremvc-withapi\\models\\cityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-WithAPI\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Controllers\\CityController.cs",
+              "RelativeToolTip": "AspNetCoreMvc-WithAPI\\Controllers\\CityController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwC4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:20:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Entities\\City.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Entities\\City.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:22:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Program.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Program.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAD9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:36:31.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\appsettings.json",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T07:35:25.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Interfaces\\ICityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:42:54.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Repositories\\CityRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:45:54.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityDbContext.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Data\\CityDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Data\\CityDbContext.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Data\\CityDbContext.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Data\\CityDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBoAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:27:47.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Views\\City\\Create.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-WithAPI\\Views\\City\\Create.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Views\\City\\Create.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-WithAPI\\Views\\City\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T08:03:40.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Repositories\\CountryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:27:31.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Entities\\Country.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Entities\\Country.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:02:10.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-WithAPI\\Views\\City\\Index.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Views\\City\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-WithAPI\\Views\\City\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:39:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:26:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Controllers\\CountriesController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:36:20.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Intro\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreAPI-Intro\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Intro\\Controllers\\CitiesController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:56:45.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CityViewModel.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Models\\CityViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-WithAPI\\Models\\CityViewModel.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Models\\CityViewModel.cs",
+              "RelativeToolTip": "AspNetCoreMvc-WithAPI\\Models\\CityViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:21:52.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-WithAPI\\Program.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Program.cs",
+              "RelativeToolTip": "AspNetCoreMvc-WithAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:22:42.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-WithAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-WithAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T08:16:23.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Views\\City\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-WithAPI\\Views\\City\\Edit.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreAPI-Intro\\AspNetCoreMvc-WithAPI\\Views\\City\\Edit.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-WithAPI\\Views\\City\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T08:27:55.802Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
